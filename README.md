@@ -37,10 +37,6 @@ Follow these steps to set up the project locally:
    npm run dev
    ```
 
-## 📷 Screenshots
-
-_(Add relevant screenshots of your portfolio UI here)_
-
 ## 💡 Future Enhancements
 
 - Add dark mode support
