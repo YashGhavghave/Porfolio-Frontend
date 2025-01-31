@@ -59,5 +59,6 @@ This project is open-source and available under the **MIT License**.
 
 If you have any questions or suggestions, feel free to reach out:
 - GitHub: [YashGhavghave](https://github.com/YashGhavghave)
-- Email: _(Your Email)_
+- Email: yashghavghave123@gmail.com
+  
 
