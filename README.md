@@ -41,7 +41,7 @@ Follow these steps to set up the project locally:
 
 - Add dark mode support
 - Improve animations and transitions
-- Integrate a backend for contact form handling
+- Enhaced and attracctive design
 
 ## 🤝 Contributing
 
