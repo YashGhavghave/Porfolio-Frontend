@@ -9,7 +9,7 @@ import NameProject from './components/NameProject'
 
 function App() {
   return (
-    <div className=' w-full bg-gradient-to-b from-black via-black to-black'>
+    <div className='h-[100%] w-full bg-black'>
       <><Resume/></>
       <><Social/></>
       <><Navbar/></>

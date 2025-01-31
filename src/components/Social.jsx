@@ -2,7 +2,7 @@ import React from 'react';
 
 function Social() {
   return (
-    <div className="w-[20vw] box-border relative left-[73vw] h-full max-xl:w-[40vw] max-xl:left-[58vw]">
+    <div className="w-[20vw] box-border relative left-[73vw] h-full max-xl:w-[40vw] max-xl:left-[58vw] max-lg:left-0 max-lg:w-[90vw] max-lg:top-[6vh]">
       <ul className="flex pt-[6vh] justify-evenly mb-0 ">
         <li>
             
@@ -22,7 +22,7 @@ function Social() {
         <li>
           <a
             href="https://www.instagram.com/nikhil_warkad_29?igsh=MWI5cnNteHloMDI5YQ==" target='__blank'
-            className="text-gray-500 hover:text-gray-900 dark:hover:text-pink-500 dark:text-gray-400"
+            className="text-gray-500 hover:text-gray-900 dark:hover:text-pink-500 active:text-pink-500 dark:text-gray-400"
           >
             <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path
@@ -36,7 +36,7 @@ function Social() {
         <li>
           <a
             href="https://x.com/NikhilWarkad?s=09" target='__blank'
-            className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
+            className="text-gray-500 hover:text-gray-900 dark:hover:text-blue-500 dark:text-gray-400 active:text-blue-500"
           >
             <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path
@@ -48,7 +48,7 @@ function Social() {
         <li>
           <a
             href="https://github.com/NickUchiha7/NickUchiha7" target='__blank'
-            className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400"
+            className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400 active:text-white"
           >
             <svg className="w-10 h-10" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path
@@ -60,7 +60,7 @@ function Social() {
           </a>
         </li>
         <li>
-        <a class="text-gray-500 hover:text-blue-600 flex justify-center" aria-label="Visit TrendyMinds LinkedIn" href="https://www.linkedin.com/in/nikhil-warkad-438234275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><svg
+        <a class="text-gray-500 hover:text-blue-600 flex justify-center active:text-blue-500" aria-label="Visit TrendyMinds LinkedIn" href="https://www.linkedin.com/in/nikhil-warkad-438234275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><svg
             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" class="h-10 pt-1">
             <path fill="currentColor"
                 d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z">
