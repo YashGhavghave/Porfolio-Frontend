@@ -1,8 +1,60 @@
-# React + Vite
+# Portfolio Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the frontend of my personal portfolio website, built using **React** and **Tailwind CSS**, with **Vite** for a fast development experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Modern UI/UX**: Designed with a clean and responsive interface.
+- **Fast & Optimized**: Uses Vite for a lightning-fast development experience.
+- **Fully Responsive**: Works seamlessly across different devices.
+- **Easy to Customize**: Built with reusable components for easy modifications.
+
+## 🛠️ Tech Stack
+
+- **React** (Frontend library)
+- **Vite** (Fast build tool)
+- **Tailwind CSS** (Utility-first CSS framework)
+- **ESLint & Prettier** (Code formatting and linting)
+
+## 📦 Installation & Setup
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/YashGhavghave/Porfolio-Frontend.git
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd Porfolio-Frontend
+   ```
+3. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+4. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+
+## 💡 Future Enhancements
+
+- Add dark mode support
+- Improve animations and transitions
+- Enhaced and attracctive design
+
+## 🤝 Contributing
+
+If you'd like to contribute, feel free to fork the repository and submit a pull request.
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+## 📬 Contact
+
+If you have any questions or suggestions, feel free to reach out:
+- GitHub: [YashGhavghave](https://github.com/YashGhavghave)
+- Email: yashghavghave123@gmail.com
+  
+
