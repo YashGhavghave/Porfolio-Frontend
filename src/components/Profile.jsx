@@ -1,7 +1,7 @@
 import React from 'react';
 import GoogleLogo from './images/781076272185a13bc8555bae440557aa.jpg';
 
-function Navbar() {
+function Profile() {
   return (
     <div className="flex justify-center relative top-[13vh] bg-black max-xl:top-[18vh] max-lg:top-[10vh]">
       <div className="relative w-[15vw] h-[30vh] group max-xl:w-[70vw] max-xl:h-[35vh] max-lg:h-[70vw] ">
@@ -19,4 +19,4 @@ function Navbar() {
   );
 }
 
-export default Navbar;
+export default Profile;

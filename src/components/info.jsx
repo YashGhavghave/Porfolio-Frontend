@@ -49,12 +49,12 @@ const info = () => {
         } gradient="bg-gradient-to-br from-blue-400 " />
         <Card title="Certification" text={
           <>
-            <div>- Programming for Everybody (Getting Started with Python) <a href="https://drive.google.com/file/d/100j_6WYt-YJ8aNw9oyq2u5RbDdPEYbEs/view?usp=sharing ">Here</a></div>
-            <div>- Python Functions, Files, and Dictionaries <a href="https://drive.google.com/file/d/1sYamctflcoWZ0ayam0YemqgpGI8xWFT1/view?usp=sharing ">Here</a></div>
-            <div>- Pharmaceutical and Medical Device Innovations <a href="https://drive.google.com/file/d/13oIXJpO8kGHjGiLBVQbEa28FNj0OSQMM/view?usp=sharing ">Here</a></div>
-            <div>- IBM Full Stack Software Developer <a href="https://drive.google.com/file/d/1BjA4vkDA50BRz0XBMKVl-jnOxcx4VETv/view?usp=sharing ">Here</a></div>
-            <div>- Red Hat Traning and Certification <a href="https://drive.google.com/file/d/1LskeCjyln49u2EiiLVgt86Bfi4JQQMSJ/view?usp=sharing">Here</a></div>
-            <div>- Google Cloud Badges <a href="https://www.cloudskillsboost.google/public_profiles/7bfe86ee-b1f8-4a26-8e43-a1b9464b65b4 ">Here</a></div>
+            <div>- Programming for Everybody (Getting Started with Python) <a href="Your Certificate Link">Here</a></div>
+            <div>- Python Functions, Files, and Dictionaries <a href="Your Certificate Link">Here</a></div>
+            <div>- Pharmaceutical and Medical Device Innovations <a href="Your Certificate Link">Here</a></div>
+            <div>- IBM Full Stack Software Developer <a href="Your Certificate Link">Here</a></div>
+            <div>- Red Hat Traning and Certification <a href="Your Certificate Link">Here</a></div>
+            <div>- Google Cloud Badges <a href="Your Certificate Link ">Here</a></div>
           </>
         } gradient="bg-gradient-to-br from to-green-500" />
       </div>
@@ -96,40 +96,40 @@ const info = () => {
 
         <div className="w-full p-8 bg-black shadow-md rounded-lg">
           <h2 className="text-8xl tangerine-bold mb-6 text-white flex justify-center">Certifications</h2>
-          <ul className="list-disc list-inside text-white text-3xl p-10 tracking-widest">
+          <ul className="list-disc list-inside text-white text-3xl p-10 tracking-widest max pr">
             <li>
               Programming for Everybody (Python){" "}
-              <a className="text-blue-500 underline" href="https://drive.google.com/file/d/100j_6WYt-YJ8aNw9oyq2u5RbDdPEYbEs/view?usp=sharing">
+              <a className="text-blue-500 underline" href="Your Certificate Link">
                 Here
               </a>
             </li>
             <li>
               Python Functions, Files, and Dictionaries{" "}
-              <a className="text-blue-500 underline" href="https://drive.google.com/file/d/1sYamctflcoWZ0ayam0YemqgpGI8xWFT1/view?usp=sharing">
+              <a className="text-blue-500 underline" href="Your Certificate Link">
                 Here
               </a>
             </li>
             <li>
               Pharmaceutical and Medical Device Innovations{" "}
-              <a className="text-blue-500 underline" href="https://drive.google.com/file/d/13oIXJpO8kGHjGiLBVQbEa28FNj0OSQMM/view?usp=sharing">
+              <a className="text-blue-500 underline" href="Your Certificate Link">
                 Here
               </a>
             </li>
             <li>
               IBM Full Stack Software Developer{" "}
-              <a className="text-blue-500 underline" href="https://drive.google.com/file/d/1BjA4vkDA50BRz0XBMKVl-jnOxcx4VETv/view?usp=sharing">
+              <a className="text-blue-500 underline" href="Your Certificate Link">
                 Here
               </a>
             </li>
             <li>
               Red Hat Training and Certification{" "}
-              <a className="text-blue-500 underline" href="https://drive.google.com/file/d/1LskeCjyln49u2EiiLVgt86Bfi4JQQMSJ/view?usp=sharing">
+              <a className="text-blue-500 underline" href="Your Certificate Link">
                 Here
               </a>
             </li>
             <li>
               Google Cloud Badges{" "}
-              <a className="text-blue-500 underline" href="https://www.cloudskillsboost.google/public_profiles/7bfe86ee-b1f8-4a26-8e43-a1b9464b65b4">
+              <a className="text-blue-500 underline" href="Your Certificate Link">
                 Here
               </a>
             </li>

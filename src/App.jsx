@@ -1,21 +1,19 @@
 import './App.css'
-import Navbar from './components/Navbar'
+import Profile from './components/Profile'
 import Resume from './components/Resume'
-import Context from './components/Context'
+import Selfinfo from './components/Selfinfo'
 import Name from './components/Name'
 import Info from './components/info'
 import Social from './components/Social'
-import NameProject from './components/NameProject'
 
 function App() {
   return (
     <div className='h-[100%] w-full bg-black'>
       <><Resume/></>
       <><Social/></>
-      <><Navbar/></>
+      <><Profile/></>
       <><Name/></>
-      <><Context/></>
-      {/* <><NameProject/></> */}
+      <><Selfinfo/></>
       <><Info/></>
     </div>
   )

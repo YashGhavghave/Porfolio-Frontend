@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Context() {
+function Selfinfo() {
   return (
     <div className='flex justify-center items-center relative top-[26vh] max-lg:top-[15vh]'>
       <div className='text-white w-[70vw] flex justify-center tracking-widest text-3xl text-center bg-black'>
@@ -11,4 +11,4 @@ function Context() {
   )
 }
 
-export default Context
+export default Selfinfo
